@@ -1,0 +1,137 @@
+📜 𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐍𝐞𝐨𝐭𝐞𝐜𝐧𝐨 BOT — SPECIFICA COMPLETA
+🎯 Obiettivo
+Il bot è uno strumento roleplay per gestire:
+
+Un menù personalizzabile con tasti.
+
+Ordini clienti, gestiti in un gruppo privato con Topics dedicati.
+
+Richieste di sponsor.
+
+Invio di curriculum per candidarsi a lavorare nel locale.
+
+✅ 1️⃣ Funzione chiave: gruppo staff con Topics
+Quando il bot viene avviato per la prima volta, controlla se esiste già un gruppo dedicato allo staff.
+
+Se non esiste:
+
+Crea un supergruppo privato chiamato ad esempio “𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐍𝐞𝐨𝐭𝐞𝐜𝐧𝐨 Staff”.
+
+Attiva la modalità forum per abilitare i Topics.
+
+Crea 3 Topics di base:
+
+📦 Ordini
+
+📜 Annunci Sponsor
+
+📝 Candidature
+
+Salva l’ID del gruppo e degli ID Topics in un database o file di configurazione per usarli in seguito.
+
+Il gruppo è privato e visibile solo ai membri dello staff.
+
+✅ 2️⃣ Menù con tasti inline
+Gli utenti usano /menu per aprire il menù principale.
+
+Il bot risponde con un messaggio strutturato e tasti inline:
+
+Categorie: 🍔 Panini, 🥤 Bevande, 🍟 Extra.
+
+Torna indietro 🔙.
+
+Ogni categoria mostra i piatti disponibili con prezzo (in crediti roleplay).
+
+Ogni piatto ha un tasto “Ordina”.
+
+Gli admin possono modificare o aggiungere piatti con /modifica_menu o /aggiungi_piatto.
+
+✅ 3️⃣ Flusso ordine
+Dopo che l’utente clicca “Ordina”, il bot:
+
+Chiede conferma con bottoni ✔️ Conferma / ❌ Annulla.
+
+Se confermato, crea un messaggio automatico nel Topic 📦 Ordini del gruppo staff:
+
+yaml
+Copia
+Modifica
+📦 **Nuovo Ordine**
+👤 Cliente: @username
+📝 Dettaglio: [nome piatto + eventuali note]
+⏳ Stato: In attesa
+Aggiunge bottoni inline visibili solo allo staff:
+
+🟢 Prendi in Carico → aggiorna lo stato a “In preparazione” e notifica il cliente in privato.
+
+❌ Rifiuta → notifica il cliente in privato.
+
+💬 Rispondi → apre una risposta rapida che viene inviata come messaggio privato al cliente.
+
+✅ 4️⃣ Richiesta sponsor
+Gli utenti possono usare /sponsor o un tasto dedicato nel menù.
+
+Il bot spiega come funziona lo sponsor roleplay, eventuali regole e costi simbolici.
+
+Il cliente clicca “Invia Richiesta”.
+
+Il bot crea un messaggio automatico nel Topic 📜 Annunci Sponsor:
+
+java
+Copia
+Modifica
+📣 **Richiesta Sponsor**
+👤 Da: @username
+📋 Dettaglio: Sponsor generico (nessun costo reale)
+Lo staff approva o rifiuta usando bottoni inline.
+
+L’esito viene notificato al cliente in privato.
+
+✅ 5️⃣ Invio curriculum
+L’utente può avviare /curriculum o cliccare “Invia Curriculum” dal menù.
+
+Il bot fa domande una per una:
+
+Nome roleplay
+
+Età roleplay
+
+Ruolo desiderato
+
+Al termine, genera un messaggio nel Topic 📝 Candidature:
+
+css
+Copia
+Modifica
+📝 **Candidatura**
+👤 @username
+👔 Ruolo: [ruolo scelto]
+🎭 Età Roleplay: [età]
+Lo staff usa bottoni inline:
+
+✔️ Approva
+
+❌ Rifiuta
+
+💬 Rispondi
+
+Il cliente riceve la risposta in privato.
+
+✅ 6️⃣ Staff: tutto nei Topics
+Lo staff interagisce solo nel gruppo staff.
+
+Non servono comandi scritti manuali: tutto si gestisce cliccando i bottoni.
+
+Ogni messaggio del bot è tracciato e aggiornabile.
+
+I Topics mantengono ordinati ordini, sponsor e candidature.
+
+✅ 7️⃣ Notifiche
+Il bot avvisa sempre il cliente in privato quando:
+
+L’ordine viene preso in carico o rifiutato.
+
+Lo sponsor viene approvato o rifiutato.
+
+La candidatura viene accettata o respinta.
+

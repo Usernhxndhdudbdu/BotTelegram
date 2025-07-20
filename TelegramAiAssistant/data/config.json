@@ -1,0 +1,522 @@
+{
+  "staff_group_id": -1002283440254,
+  "topics": {
+    "orders": 331,
+    "sponsors": 332,
+    "recruitment": 333,
+    "applications": 372,
+    "users": 373
+  },
+  "orders": {
+    "order_5334649049_1752943420": {
+      "id": "order_5334649049_1752943420",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Coca Cola",
+          "item_price": 3,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T16:43:13.869002"
+        },
+        {
+          "item_name": "Acqua",
+          "item_price": 2,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T16:43:18.526113"
+        },
+        {
+          "item_name": "Hamburger Classico",
+          "item_price": 8,
+          "category": "🍔 Panini",
+          "quantity": 1,
+          "added_at": "2025-07-19T16:43:26.754921"
+        },
+        {
+          "item_name": "Hamburger Deluxe",
+          "item_price": 12,
+          "category": "🍔 Panini",
+          "quantity": 1,
+          "added_at": "2025-07-19T16:43:30.361016"
+        }
+      ],
+      "total_price": 25,
+      "status": "rejected",
+      "created_at": "2025-07-19T16:43:40.966638",
+      "staff_message_id": 339,
+      "assigned_to": 5334649049,
+      "updated_at": "2025-07-19T16:43:46.730514"
+    },
+    "1": {
+      "id": "1",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Birra",
+          "item_price": 5,
+          "category": "🥤 Bevande",
+          "quantity": 2,
+          "added_at": "2025-07-19T17:09:58.506827"
+        },
+        {
+          "item_name": "Coca Cola",
+          "item_price": 3,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T17:10:00.279990"
+        },
+        {
+          "item_name": "Acqua",
+          "item_price": 2,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T17:10:02.943549"
+        }
+      ],
+      "total_price": 15,
+      "status": "completed",
+      "created_at": "2025-07-19T17:10:15.696965",
+      "staff_message_id": 342,
+      "assigned_to": 5334649049,
+      "updated_at": "2025-07-19T17:10:42.696835"
+    },
+    "2": {
+      "id": "2",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Hamburger Deluxe",
+          "item_price": 11,
+          "category": "🍔 Panini",
+          "quantity": 2,
+          "added_at": "2025-07-19T18:40:32.980710"
+        }
+      ],
+      "total_price": 22,
+      "status": "pending",
+      "created_at": "2025-07-19T18:40:51.902298",
+      "staff_message_id": 361,
+      "assigned_to": null
+    },
+    "3": {
+      "id": "3",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Hamburger Deluxe",
+          "item_price": 11,
+          "category": "🍔 Panini",
+          "quantity": 4,
+          "added_at": "2025-07-19T18:49:40.047268"
+        }
+      ],
+      "total_price": 44,
+      "status": "pending",
+      "created_at": "2025-07-19T18:49:54.844524",
+      "staff_message_id": 369,
+      "assigned_to": null
+    },
+    "4": {
+      "id": "4",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Hamburger Deluxe",
+          "item_price": 11,
+          "category": "🍔 Panini",
+          "quantity": 2,
+          "added_at": "2025-07-19T18:54:41.566894"
+        },
+        {
+          "item_name": "Birra",
+          "item_price": 5,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T18:54:47.267472"
+        },
+        {
+          "item_name": "Coca Cola",
+          "item_price": 3,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T18:54:48.701688"
+        },
+        {
+          "item_name": "Patatine Fritte",
+          "item_price": 4,
+          "category": "🍟 Extra",
+          "quantity": 1,
+          "added_at": "2025-07-19T18:54:52.848522"
+        },
+        {
+          "item_name": "Onion Rings",
+          "item_price": 4,
+          "category": "🍟 Extra",
+          "quantity": 1,
+          "added_at": "2025-07-19T18:54:54.275564"
+        }
+      ],
+      "total_price": 38,
+      "status": "completed",
+      "created_at": "2025-07-19T18:55:16.437407",
+      "staff_message_id": 383,
+      "assigned_to": 5334649049,
+      "updated_at": "2025-07-19T18:55:48.815634"
+    },
+    "5": {
+      "id": "5",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "items": [
+        {
+          "item_name": "Hamburger Deluxe",
+          "item_price": 11,
+          "category": "🍔 Panini",
+          "quantity": 4,
+          "added_at": "2025-07-19T19:50:14.519334"
+        },
+        {
+          "item_name": "Cheeseburger",
+          "item_price": 10,
+          "category": "🍔 Panini",
+          "quantity": 1,
+          "added_at": "2025-07-19T19:50:16.072672"
+        },
+        {
+          "item_name": "Acqua",
+          "item_price": 2,
+          "category": "🥤 Bevande",
+          "quantity": 1,
+          "added_at": "2025-07-19T19:50:21.194258"
+        },
+        {
+          "item_name": "Patatine Fritte",
+          "item_price": 4,
+          "category": "🍟 Extra",
+          "quantity": 1,
+          "added_at": "2025-07-19T19:50:25.181520"
+        }
+      ],
+      "total_price": 60,
+      "status": "completed",
+      "created_at": "2025-07-19T19:51:43.181355",
+      "staff_message_id": 389,
+      "assigned_to": 5334649049,
+      "updated_at": "2025-07-19T19:52:03.510071"
+    }
+  },
+  "sponsors": {
+    "sponsor_5334649049_1752943321": {
+      "id": "sponsor_5334649049_1752943321",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "status": "pending",
+      "created_at": "2025-07-19T16:42:01.504420",
+      "staff_message_id": null
+    },
+    "sponsor_5334649049_1752943442": {
+      "id": "sponsor_5334649049_1752943442",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "status": "approved",
+      "created_at": "2025-07-19T16:44:02.091068",
+      "staff_message_id": 340,
+      "updated_at": "2025-07-19T16:44:09.355980"
+    },
+    "S1": {
+      "id": "S1",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "status": "approved",
+      "created_at": "2025-07-19T17:04:31.822689",
+      "staff_message_id": 341,
+      "updated_at": "2025-07-19T17:05:47.723788"
+    },
+    "S2": {
+      "id": "S2",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "status": "approved",
+      "created_at": "2025-07-19T17:23:37.482384",
+      "staff_message_id": 348,
+      "updated_at": "2025-07-19T17:23:43.282914"
+    },
+    "S3": {
+      "id": "S3",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "Buongiorno",
+      "status": "approved",
+      "created_at": "2025-07-19T17:27:05.727421",
+      "staff_message_id": 350,
+      "updated_at": "2025-07-19T17:27:12.757550"
+    },
+    "S4": {
+      "id": "S4",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "Buongiorno",
+      "original_message_id": 145,
+      "original_chat_id": 5334649049,
+      "status": "approved",
+      "created_at": "2025-07-19T17:30:02.902403",
+      "staff_message_id": 352,
+      "updated_at": "2025-07-19T17:30:14.383471"
+    },
+    "S5": {
+      "id": "S5",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "Test",
+      "original_message_id": 184,
+      "original_chat_id": 5334649049,
+      "status": "approved",
+      "created_at": "2025-07-19T17:42:26.233553",
+      "staff_message_id": 354,
+      "updated_at": "2025-07-19T17:42:34.535432"
+    },
+    "S6": {
+      "id": "S6",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "/curriculum",
+      "original_message_id": 210,
+      "original_chat_id": 5334649049,
+      "status": "rejected",
+      "created_at": "2025-07-19T17:48:33.117841",
+      "staff_message_id": 357,
+      "updated_at": "2025-07-19T17:49:08.300916"
+    },
+    "S7": {
+      "id": "S7",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "B",
+      "original_message_id": 343,
+      "original_chat_id": 5334649049,
+      "status": "rejected",
+      "created_at": "2025-07-19T18:45:47.458163",
+      "staff_message_id": 363,
+      "updated_at": "2025-07-19T18:45:55.479557"
+    },
+    "S8": {
+      "id": "S8",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "Bcn chiusa (sponsor test)",
+      "original_message_id": 356,
+      "original_chat_id": 5334649049,
+      "status": "approved",
+      "created_at": "2025-07-19T18:49:14.881539",
+      "staff_message_id": 366,
+      "updated_at": "2025-07-19T18:49:25.300065"
+    },
+    "S9": {
+      "id": "S9",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "ᴍɪꜱᴛᴇʀꜱʜᴏᴘ • ᴀɴɴᴜɴᴄɪᴏ\n\nEvidentemente, il MisterShop non ha avuto il successo sperato. Purtroppo il Direttore Morrichelli Moneta si trovava in difficoltà, finché non è arrivato Mister Eugene Krabs a salvare la situazione!\n\nGli è stata data la copia unica della formula segreta del Krabby Patty e i diritti di copyright del marchio per cambiare il nome da:\nᴍɪꜱᴛᴇʀꜱʜᴏᴘ a 𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 !\n\nOvviamente Mr Krabs rimarrà a NeoTecno per sostenere i futuri progetti e successi.\n\nRestate sintonizzati per futuri aggiornamenti!\n\nFirmato:\n✍ Direttore Morrichelli Moneta \n✍ Direttore Krusty Krab Eugene Krabs\n\n@KrustyKrabNT",
+      "original_message_id": 382,
+      "original_chat_id": 5334649049,
+      "status": "approved",
+      "created_at": "2025-07-19T18:56:58.598435",
+      "staff_message_id": 385,
+      "updated_at": "2025-07-19T18:57:11.819319"
+    },
+    "S10": {
+      "id": "S10",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "message": "Ferie anticipate like:",
+      "original_message_id": 428,
+      "original_chat_id": 5334649049,
+      "status": "approved",
+      "created_at": "2025-07-19T19:53:07.094290",
+      "staff_message_id": 391,
+      "updated_at": "2025-07-19T19:53:18.379998"
+    }
+  },
+  "applications": {
+    "app_5334649049_1752943373": {
+      "id": "app_5334649049_1752943373",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "name": "mr money",
+      "age": "34",
+      "role": "Addetto Pulizie",
+      "status": "approved",
+      "created_at": "2025-07-19T16:42:53.029059",
+      "staff_message_id": 338,
+      "updated_at": "2025-07-19T16:42:57.356356"
+    },
+    "app_5334649049_1752947018": {
+      "id": "app_5334649049_1752947018",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐌𝐫 𝐌𝐨𝐧𝐞𝐲 💔 [Redemption arc.]",
+      "minecraft_name": "Mr_Money",
+      "telegram": "@motoreasoldi",
+      "presentation": "Ciao sono money",
+      "reason": "Perché sí",
+      "experience": "Si",
+      "hours": "90",
+      "advice": "Renderla più utile",
+      "bad_employee": "Nulla",
+      "additional": "No",
+      "status": "pending",
+      "created_at": "2025-07-19T17:43:38.772077",
+      "staff_message_id": null
+    },
+    "app_5334649049_1752947022": {
+      "id": "app_5334649049_1752947022",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐌𝐫 𝐌𝐨𝐧𝐞𝐲 💔 [Redemption arc.]",
+      "minecraft_name": "Mr_Money",
+      "telegram": "@motoreasoldi",
+      "presentation": "Ciao sono money",
+      "reason": "Perché sí",
+      "experience": "Si",
+      "hours": "90",
+      "advice": "Renderla più utile",
+      "bad_employee": "Nulla",
+      "additional": ".",
+      "status": "pending",
+      "created_at": "2025-07-19T17:43:42.135731",
+      "staff_message_id": null
+    },
+    "app_5334649049_1752948000": {
+      "id": "app_5334649049_1752948000",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐁𝐨𝐭",
+      "minecraft_name": "test",
+      "telegram": "test",
+      "presentation": "test",
+      "reason": "test",
+      "experience": "t",
+      "hours": "t",
+      "advice": "t",
+      "bad_employee": "t",
+      "additional": "`Non ho nulla da dire`",
+      "status": "pending",
+      "created_at": "2025-07-19T18:00:00.318695",
+      "staff_message_id": null
+    },
+    "app_5334649049_1752948001": {
+      "id": "app_5334649049_1752948001",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐁𝐨𝐭",
+      "minecraft_name": "test",
+      "telegram": "test",
+      "presentation": "test",
+      "reason": "test",
+      "experience": "t",
+      "hours": "t",
+      "advice": "t",
+      "bad_employee": "t",
+      "additional": "`Non ho nulla da dire`",
+      "status": "pending",
+      "created_at": "2025-07-19T18:00:01.683549",
+      "staff_message_id": null
+    },
+    "app_5334649049_1752948293": {
+      "id": "app_5334649049_1752948293",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐌𝐫 𝐌𝐨𝐧𝐞𝐲 💔 [Redemption arc.]",
+      "minecraft_name": "Mr_Money",
+      "telegram": ".",
+      "presentation": ".",
+      "reason": ".",
+      "experience": ".",
+      "hours": ".",
+      "advice": ".",
+      "bad_employee": ".",
+      "additional": "`.`",
+      "status": "pending",
+      "created_at": "2025-07-19T18:04:53.049477",
+      "staff_message_id": null
+    },
+    "app_5334649049_1752948461": {
+      "id": "app_5334649049_1752948461",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐁𝐨𝐭",
+      "minecraft_name": "Moneta",
+      "telegram": "E",
+      "presentation": "E",
+      "reason": "E",
+      "experience": "E",
+      "hours": "Ee",
+      "advice": "R",
+      "bad_employee": "R",
+      "additional": "`Non ho nulla da dire`",
+      "status": "rejected",
+      "created_at": "2025-07-19T18:07:41.828422",
+      "staff_message_id": null,
+      "updated_at": "2025-07-19T18:07:47.256060"
+    },
+    "app_5334649049_1752951480": {
+      "id": "app_5334649049_1752951480",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐌𝐫 𝐌𝐨𝐧𝐞𝐲 💔 [Redemption arc.]",
+      "minecraft_name": "Test",
+      "telegram": "@motoreasoldi",
+      "presentation": "Test",
+      "reason": "Test",
+      "experience": "Test",
+      "hours": "Test",
+      "advice": "Test",
+      "bad_employee": "Test",
+      "additional": "`Test`",
+      "status": "approved",
+      "created_at": "2025-07-19T18:58:00.279026",
+      "staff_message_id": null,
+      "updated_at": "2025-07-19T18:58:10.277947"
+    },
+    "app_5334649049_1752954848": {
+      "id": "app_5334649049_1752954848",
+      "user_id": 5334649049,
+      "username": "MotoreASoldi",
+      "full_name": "𝐓𝐡𝐞 𝐊𝐫𝐮𝐬𝐭𝐲 𝐊𝐫𝐚𝐛 • 𝐁𝐨𝐭",
+      "minecraft_name": "Mr_Money",
+      "telegram": "Test",
+      "presentation": "Test",
+      "reason": "Test",
+      "experience": "Test",
+      "hours": "Test",
+      "advice": "Test",
+      "bad_employee": "Test",
+      "additional": "`Non ho nulla da dire`",
+      "status": "approved",
+      "created_at": "2025-07-19T19:54:08.104279",
+      "staff_message_id": null,
+      "updated_at": "2025-07-19T19:54:13.887730"
+    }
+  },
+  "carts": {},
+  "user_states": {},
+  "sponsor_counter": 10,
+  "order_counter": 5,
+  "sponsor_channel_id": -1002341945397,
+  "minecraft_names": {
+    "5334649049": "Mr_Money"
+  },
+  "users": {
+    "5334649049": {
+      "minecraft_name": "Mr_Money",
+      "username": "MotoreASoldi",
+      "banned": false,
+      "registered_at": "2025-07-19T19:52:28.543115"
+    }
+  }
+}

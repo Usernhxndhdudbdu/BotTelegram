@@ -1,0 +1,42 @@
+{
+  "categories": {
+    "🍔 Panini": {
+      "Hamburger Deluxe": {
+        "price": 11,
+        "description": "test"
+      },
+      "Cheeseburger": {
+        "price": 10,
+        "description": "Hamburger con formaggio fuso"
+      }
+    },
+    "🥤 Bevande": {
+      "Coca Cola": {
+        "price": 3,
+        "description": "Bibita fresca"
+      },
+      "Acqua": {
+        "price": 2,
+        "description": "Acqua naturale"
+      },
+      "Birra": {
+        "price": 5,
+        "description": "Birra fresca"
+      }
+    },
+    "🍟 Extra": {
+      "Patatine Fritte": {
+        "price": 4,
+        "description": "Patatine croccanti"
+      },
+      "Onion Rings": {
+        "price": 4,
+        "description": "Anelli di cipolla fritti"
+      },
+      "Salse Varie": {
+        "price": 1,
+        "description": "Ketchup, maionese, senape"
+      }
+    }
+  }
+}
